@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Razwan Abdullah | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <img src="images/profile.jpg" alt="Razwan Abdullah" class="profile-pic">
+    <h1>Razwan Abdullah</h1>
+    <h3>Project Manager | Fintech | Data & Digital Transformation</h3>
+    <p>
+      <a href="resume.pdf" target="_blank">📄 Download Resume</a> |
+      <a href="https://www.linkedin.com/in/razwanabdullah" target="_blank">LinkedIn</a> |
+      <a href="mailto:youremail@example.com">Email</a>
+    </p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I’m a results-driven Project Manager with 7+ years of experience in fintech solution deployment, digital banking, and data analytics.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Project Management (PMP, Agile, Scrum)</li>
+      <li>Fintech Solution Deployment</li>
+      <li>Data Analytics & Reporting</li>
+      <li>Stakeholder Management & UAT</li>
+      <li>Leadership & Cross-functional Collaboration</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Hishabee Fintech Integration</h3>
+      <p>End-to-end project delivery integrating Hishabee loan processing through Prime Bank PLC and AGAM.</p>
+      <img src="images/project1.jpg" alt="Hishabee Project" class="project-img">
+    </div>
+    <div class="project">
+      <h3>MyPrime Mobile Banking Revamp</h3>
+      <p>Revamped mobile banking app with improved UX and core banking integration.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: youremail@example.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/razwanabdullah" target="_blank">linkedin.com/in/razwanabdullah</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Razwan Abdullah. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
